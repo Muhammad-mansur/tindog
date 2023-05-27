@@ -1,2 +1,2 @@
 # tindog
-a tinder website clone but for dogs
+a tinder kindof website but for dogs
